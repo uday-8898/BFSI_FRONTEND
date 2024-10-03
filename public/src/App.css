@@ -1,0 +1,9 @@
+* {
+    font-family: "Poppins", sans-serif;
+    transition-duration: 200ms;
+}
+
+
+body{
+    overflow-x: hidden;
+}
